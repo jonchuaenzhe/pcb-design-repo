@@ -1,0 +1,35 @@
+Altium Designer Pick and Place Locations
+C:\Users\Lingke\Desktop\Personal\Altium\WPT Current Sensor Round 1\Project Outputs for Free Documents\Pick Place\Pick Place for Layout.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       21/02/21
+Time:       16:26
+Revision:   59
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"R7","10KR","TopLayer","FP-CRCW0805-E3-MFG","22.3000","4.6708","180","Resistor 10K Ohm"
+"R6","100R","TopLayer","FP-CRCW0805-E3-MFG","31.4778","6.6000","180","Resistor 100 Ohm"
+"R5","6K8R","TopLayer","FP-CRCW0805-E3-MFG","26.2000","9.3580","360","Resistor 6.8K Ohm"
+"R4","1KR","TopLayer","FP-CRCW0805-E3-MFG","26.2000","11.4622","180","Resistor 1k Ohm"
+"R3","470R","TopLayer","FP-CRCW0805-E3-MFG","24.8000","22.1000","90","Resistor 470 Ohm"
+"R2","470R","TopLayer","FP-CRCW0805-E3-MFG","26.9043","22.1000","90","Resistor 470 Ohm"
+"R1","0R005 5W","TopLayer","FC4L110R005FER","26.0000","29.0000","180","Resistor 0R005 5W"
+"P3","2.54mm Header","TopLayer","61300211121","34.9520","5.3000","90","THT Vertical Pin Header WR-PHD, Pitch 2.54 mm, Single Row, 2 pins"
+"P2","Power IO","TopLayer","691404910002B","10.1500","28.9000","270","Serie 4049 B - 7.50mm Screwless Clamp Power Connector WR-TBL, 2 pin"
+"P1","Power IO","TopLayer","691404910002B","41.8500","29.1000","90","Serie 4049 B - 7.50mm Screwless Clamp Power Connector WR-TBL, 2 pin"
+"J2","2.54mm Socket Header","TopLayer","RHDR2W60P0X254_1X2_508X254X700P","28.0285","5.3558","90","Connector"
+"J1","2.54mm Socket Header","TopLayer","RHDR2W60P0X254_1X2_508X254X700P","16.2700","12.0000","360","Connector"
+"IC2","Op-Amp","TopLayer","ADI-RJ-5_N","22.2000","7.9000","180","Single Channel RRIO Operational Amplifier, 80 MHz BW, 35 V/us SR, Industrial, 5-pin SOT23 (RJ-5), Reel"
+"IC1","Amplifier","TopLayer","SOIC127P600X175-8N","26.0000","15.4165","180","Integrated Circuit Amplifier"
+"C8","100nF/50V","TopLayer","CAPC2012X90N","18.4000","6.9000","0","100nF/50V"
+"C7","33pF/50V","TopLayer","CAPC2012X90N","25.3543","5.9000","90","Capacitor 33pF/50V"
+"C6","1nF/50V","TopLayer","CAPC2012X90N","32.2000","3.9558","90","1nF/50V"
+"C5","1nF/50V","TopLayer","CAPC2012X90N","29.5693","9.3000","180","1nF/50V"
+"C4","100nF/50V","TopLayer","CAPC2012X90N","20.5308","15.6000","0","100nF/50V"
+"C3","1nF/50V","TopLayer","CAPC2012X90N","22.7458","20.1000","270","1nF/50V"
+"C2","1nF/50V","TopLayer","CAPC2012X90N","28.9585","20.1000","270","1nF/50V"
+"C1","1nF/50V","TopLayer","CAPC2012X90N","25.9000","19.3208","180","1nF/50V"

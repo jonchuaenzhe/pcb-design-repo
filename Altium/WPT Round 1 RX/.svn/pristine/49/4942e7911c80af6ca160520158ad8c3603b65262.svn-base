@@ -1,0 +1,17 @@
+Added Component: Designator=M4(BSZ042N06NS)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//BSZ070N08LS5ATMA1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BSZ070N08LS5ATMA1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "726-BSZ070N08LS5ATMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=726-BSZ070N08LS5ATMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "726-BSZ070N08LS5ATMA"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=M4-1
+Added Pin To Net: NetName=GND Pin=M4-2
+Added Pin To Net: NetName=GND Pin=M4-3
+Added Pin To Net: NetName=NetM4_4 Pin=M4-4
+Added Pin To Net: NetName=NetC7_1 Pin=M4-5
+Added Pin To Net: NetName=NetC7_1 Pin=M4-6
+Added Pin To Net: NetName=NetC7_1 Pin=M4-7
+Added Pin To Net: NetName=NetC7_1 Pin=M4-8
+Added Member To Class: ClassName=Schematics Member=Component M4 BSZ070N08LS5ATMA1

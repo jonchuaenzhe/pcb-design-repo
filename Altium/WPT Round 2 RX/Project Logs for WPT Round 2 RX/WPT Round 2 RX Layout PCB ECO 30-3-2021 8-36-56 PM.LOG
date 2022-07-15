@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=Vref 3.1V Pin=C40-1
+Added Pin To Net: NetName=NetC40_2 Pin=TP11-1
+Added Pin To Net: NetName=NetC40_2 Pin=U1-1
+Added Member To Class: ClassName=WPT Round 2 RX Schematics Member=Component C34 1000uF/50V
+Added Member To Class: ClassName=WPT Round 2 RX Schematics Member=Component C35 1000uF/50V
+Added Member To Class: ClassName=WPT Round 2 RX Schematics Member=Component C36 1000uF/50V
+Added Member To Class: ClassName=WPT Round 2 RX Schematics Member=Component C37 1000uF/50V

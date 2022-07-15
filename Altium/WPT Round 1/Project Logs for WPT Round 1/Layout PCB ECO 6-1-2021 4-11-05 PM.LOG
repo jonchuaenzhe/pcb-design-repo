@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=PWM_A Pin=P3-2
+Removed Pin From Net: NetName=PWM_B Pin=P3-4
+Change Component Footprint: Designator=P3 Old Footprint=61300621121 New Footprint=61300621121
+Added Pin To Net: NetName=PWM_B Pin=P3-2
+Added Pin To Net: NetName=PWM_A Pin=P3-4

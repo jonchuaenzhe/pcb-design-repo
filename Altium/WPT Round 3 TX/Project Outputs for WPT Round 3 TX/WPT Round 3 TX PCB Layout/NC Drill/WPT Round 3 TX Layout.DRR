@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: WPT Round 3 TX Layout.PcbDoc   2/1/2022  7:23:16 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : WPT Round 3 TX Layout.TXT
+ASCII RectHoles File : WPT Round 3 TX Layout-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             215       PTH        726.08mm (28.59inch)
+T2      0.5mm (20mil)                                             Round             9         PTH        131.09mm (5.16inch)
+T3      0.6mm (24mil)                                             Rectangle         4         PTH        211.55mm (8.33inch)
+T4      0.8mm (31mil)                                             Round             6         PTH        94.18mm (3.71inch)
+T5      1.02mm (40mil)                                            Round             20        PTH        73.66mm (2.90inch)
+T6      1.1mm (43mil)                                             Round             14        PTH        250.83mm (9.88inch)
+T7      2.7mm (106mil)                                            Round             4         PTH        79.46mm (3.13inch)
+T8      3.2mm (126mil)          +0.2mm (8mil)                     Round             4         NPTH       266.25mm (10.48inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              276
+
+Total Processing Time (hh:mm:ss) : 00:00:00

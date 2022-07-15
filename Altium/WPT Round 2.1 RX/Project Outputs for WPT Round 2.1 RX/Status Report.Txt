@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [WPT Round 2.1 RX Layout.PcbDoc]
+   Generated File[Pick Place for WPT Round 2.1 RX Layout.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:42:09 AM On 4/12/2021

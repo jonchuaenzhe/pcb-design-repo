@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=In- Pin=R21-2
+Added Pin To Net: NetName=Global_Vin_Filtered Pin=R21-2

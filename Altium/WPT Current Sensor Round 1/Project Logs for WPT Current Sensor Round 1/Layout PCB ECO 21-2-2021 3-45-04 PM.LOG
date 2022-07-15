@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=P3 Old Footprint=61300211121 New Footprint=61300211121
+Change Component Footprint: Designator=IC2 Old Footprint=ADI-RJ-5_N New Footprint=ADI-RJ-5_N
+Change Component Footprint: Designator=R2 Old Footprint=FP-CRCW0805-e3-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Component Footprint: Designator=R3 Old Footprint=FP-CRCW0805-e3-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Component Footprint: Designator=R4 Old Footprint=FP-CRCW0805-e3-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Component Footprint: Designator=R5 Old Footprint=FP-CRCW0805-e3-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Component Footprint: Designator=R6 Old Footprint=FP-CRCW0805-e3-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Component Footprint: Designator=R7 Old Footprint=FP-CRCW0805-e3-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Net Name : Old Net Name=Vin New Net Name=Vout
+Change Net Name : Old Net Name=Vout New Net Name=Vin

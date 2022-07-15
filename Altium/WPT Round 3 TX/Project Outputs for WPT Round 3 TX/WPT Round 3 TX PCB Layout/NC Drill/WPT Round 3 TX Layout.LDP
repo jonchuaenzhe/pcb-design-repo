@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Lingke\Desktop\Personal\Altium\WPT Round 3 TX\WPT Round 3 TX Layout.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=wpt round 3 tx layout.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=wpt round 3 tx layout-rectholes.txt|DrillLayers=gtl,gp1,gp2,gbl

@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=P4 Old Footprint=61300211121 New Footprint=61300211121
+Change Component Footprint: Designator=R17 Old Footprint=FP-CRCW0805-E3-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Component Footprint: Designator=R18 Old Footprint=FP-CRCW0805-E3-MFG New Footprint=FP-CRCW0805-e3-MFG
+Added Pin To Net: NetName=NetM3_4 Pin=TP6-1

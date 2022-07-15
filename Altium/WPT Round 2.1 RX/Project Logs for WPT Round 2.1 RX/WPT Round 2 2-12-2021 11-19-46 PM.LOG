@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Vout Pin=P4-1
+Removed Pin From Net: NetName=GND Pin=P4-2
+Change Component Footprint: Designator=LED1 Old Footprint=0805_A New Footprint=0805_A
+Change Component Footprint: Designator=R1 Old Footprint=FP-CRCW0805-e3-MFG New Footprint=FP-CRCW0805-e3-MFG
+Added Pin To Net: NetName=GND Pin=P4-1
+Added Pin To Net: NetName=Vout Pin=P4-2

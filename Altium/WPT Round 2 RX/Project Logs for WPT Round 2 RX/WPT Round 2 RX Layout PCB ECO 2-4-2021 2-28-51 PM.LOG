@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=  NewDesignator=C17
+Added Component: Designator=R26(0805 Resistor)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERA-6AED153V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC51_1 Pin=R26-1
+Added Pin To Net: NetName=Op-Amp Out Pin=R26-2
+Added Member To Class: ClassName=WPT Round 2 RX Schematics Member=Component C17 47uF/16V
+Added Member To Class: ClassName=WPT Round 2 RX Schematics Member=Component J1 01x17
+Added Member To Class: ClassName=WPT Round 2 RX Schematics Member=Component R26 15K

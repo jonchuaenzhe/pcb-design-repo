@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 7:24:35 PM On 2/1/2022
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [RX Layout.PcbDoc]
+   Generated File[RX Layout.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 7:24:39 PM On 2/1/2022

@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 11:22:22 PM On 11/5/2021
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [WPT Round 2 TX Layout.PcbDoc]
+   Generated File[WPT Round 2 TX Layout.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:22:30 PM On 11/5/2021

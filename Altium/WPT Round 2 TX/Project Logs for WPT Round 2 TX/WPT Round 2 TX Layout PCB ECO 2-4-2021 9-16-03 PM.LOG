@@ -1,0 +1,6 @@
+Added Component: Designator=C47(0805 Capacitor)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "710-885012207092"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C47-1
+Added Pin To Net: NetName=Vin ADC Pin=C47-2
+Added Member To Class: ClassName=Schematics Member=Component C47 10nF/50V

@@ -1,0 +1,35 @@
+Altium Designer Pick and Place Locations
+C:\Users\Lingke\Desktop\Personal\Altium\WPT 12V DC DC Converter Round 1\Project Outputs for WPT 12V DC DC Converter Round 1\Pick Place\Pick Place for Layout.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       02/02/21
+Time:       19:13
+Revision:   52
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"R6","10KO","TopLayer","FP-CRCW0805-e3-MFG","21.4542","10.6000","180","Resistor 10K Ohm"
+"R5","1K3O","TopLayer","FP-CRCW0805-e3-MFG","25.0085","10.6958","0","Resistor 1K3 Ohm"
+"R4","160KO","TopLayer","FP-CRCW0805-e3-MFG","17.9000","10.5958","180","Resistor 160K Ohm"
+"R3","18KO","TopLayer","FP-CRCW0805-e3-MFG","28.5628","10.6958","0","Resistor 18K Ohm"
+"R2","100KO","TopLayer","FP-CRCW0805-e3-MFG","17.9000","12.7000","180","Resistor 100K Ohm"
+"R1","2KO","TopLayer","FP-CRCW0805-e3-MFG","29.1000","27.5000","270","RES Thick Film, 2kO, 1%, 0.125W, 100ppm/°C, 0805"
+"LED1","Green LED","TopLayer","0805_A","31.1793","27.4000","270","SMD mono-color Chip LED, WL-SMCW, Green"
+"L1","10uH/1.2A","TopLayer","WE-MAPI_3020","7.7000","16.7000","180","Inductor"
+"J2","Spring Terminal","TopLayer","691411510002","6.8700","6.2500","360","Serie 4115 - 5.08mm Screwless Horizontal Entry WR-TBL, 2 pin"
+"J1","Spring Terminal","TopLayer","691411510002","37.9700","6.2500","360","Serie 4115 - 5.08mm Screwless Horizontal Entry WR-TBL, 2 pin"
+"IC1","171032401","TopLayer","7_PIN_PFM","22.4000","21.1525","90","MagI³C-VDRM Variable Step Down Regulator Module WE-VDRM , Ui=6-42V"
+"C11","220nF/50V","TopLayer","CAPC2012X90N","22.7000","13.6483","0","Capacitor 220nF / 50V"
+"C10","22nF/50V","TopLayer","CAPC2012X90N","28.5000","12.7500","360","Capacitor 22nF/50V"
+"C9","100nF/50V","TopLayer","CAPC3216X90N","29.4193","19.0000","270","Capacitor 100nF/50V"
+"C8","47uF/16V","TopLayer","CAPC3225X280N","39.7670","17.7385","180","Capacitor 47uF/16V"
+"C7","47uF/16V","TopLayer","CAPC3225X280N","39.7670","14.3143","180","Capacitor 47uF/16V"
+"C6","47uF/16V","TopLayer","CAPC3225X280N","35.7478","18.9000","270","Capacitor 47uF/16V"
+"C5","47uF/16V","TopLayer","CAPC3225X280N","32.3235","18.9000","270","Capacitor 47uF/16V"
+"C4","4.7uF/50V","TopLayer","CAPC3225X280N","3.2000","14.3143","360","Capacitor 4.7uF/50V"
+"C3","4.7uF/50V","TopLayer","CAPC3225X280N","3.2000","17.8385","360","Capacitor 4.7uF/50V"
+"C2","4.7uF/50V","TopLayer","CAPC3225X280N","11.6065","19.0000","270","Capacitor 4.7uF/50V"
+"C1","4.7uF/50V","TopLayer","CAPC3225X280N","15.0308","19.0000","270","Capacitor 4.7uF/50V"

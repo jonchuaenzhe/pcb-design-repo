@@ -1,0 +1,121 @@
+Altium Designer Pick and Place Locations
+C:\Users\Lingke\Desktop\Personal\Altium\WPT Round 2.1 TX\Project Outputs for WPT Round 2.1 TX\Pick Place\Pick Place for WPT Round 2.1 TX Layout.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       04/12/21
+Time:       00:37
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"R21","1K0O","TopLayer","FP-CRCW0805-e3-MFG","32.2000","41.0000","90","Resistor 1K0 Ohm"
+"LED1","Green LED","TopLayer","0805_A","32.2000","36.2000","270","SMD mono-color Chip LED, WL-SMCW, Green"
+"P4","61300211121","TopLayer","61300211121","29.7500","25.0000","90","WR-PHD Pin Header, THT, pitch 2.54mm, Single Row, Vertical, 2p"
+"P3","61300211121","TopLayer","61300211121","29.7243","31.0843","270","WR-PHD Pin Header, THT, pitch 2.54mm, Single Row, Vertical, 2p"
+"P2","To Coil","TopLayer","691404910002B","78.5543","45.8357","90","Serie 4049 B - 7.50mm Screwless Clamp Power Connector WR-TBL, 2 pin"
+"P1","Power In","TopLayer","691404910002B","14.6500","37.5293","270","Serie 4049 B - 7.50mm Screwless Clamp Power Connector WR-TBL, 2 pin"
+"C47","10nF/50V","TopLayer","0805_Capacitor","22.6000","74.4000","90","10nF/50V"
+"C46","1nF/50V","TopLayer","CAPC2012X90N","25.2000","75.2000","90","1nF/50V"
+"R29","15K","TopLayer","0805_Resistor","44.0443","45.9457","90","15K Ohm Resistor"
+"C7","1000uF/50V","TopLayer","CAPPRD500W62D1300H2650","75.0000","19.5000","90","Capacitor 1000uF"
+"C6","1000uF/50V","TopLayer","CAPPRD500W62D1300H2650","61.0000","20.0000","180","Capacitor 1000uF"
+"C5","1000uF/50V","TopLayer","CAPPRD500W62D1300H2650","68.0000","7.0000","270","Capacitor 1000uF"
+"C4","1000uF/50V","TopLayer","CAPPRD500W62D1300H2650","54.0000","7.0000","270","Capacitor 1000uF"
+"M5","M3 Mounting Hole","TopLayer","M3_HOLE","3.0000","77.0000","0",""
+"M8","M3 Mounting Hole","TopLayer","M3_HOLE","3.0000","3.0000","0",""
+"M7","M3 Mounting Hole","TopLayer","M3_HOLE","78.5000","3.0000","0",""
+"M6","M3 Mounting Hole","TopLayer","M3_HOLE","78.5000","77.0000","0",""
+"TP14","TP","BottomLayer","Test_Point","28.7000","61.0000","90","Test Point 1mm by 1mm"
+"TP11","TP","BottomLayer","Test_Point","35.7250","49.6500","180","Test Point 1mm by 1mm"
+"TP10","TP","BottomLayer","Test_Point","46.7500","39.2500","90","Test Point 1mm by 1mm"
+"TP9","TP","BottomLayer","Test_Point","46.6012","35.7500","180","Test Point 1mm by 1mm"
+"TP8","TP","BottomLayer","Test_Point","54.5000","65.0000","180","Test Point 1mm by 1mm"
+"TP7","TP","BottomLayer","Test_Point","60.2500","33.0000","180","Test Point 1mm by 1mm"
+"TP6","TP","BottomLayer","Test_Point","61.5000","59.5000","180","Test Point 1mm by 1mm"
+"TP5","TP","BottomLayer","Test_Point","62.2500","34.7500","180","Test Point 1mm by 1mm"
+"TP4","TP","BottomLayer","Test_Point","54.2500","61.0000","180","Test Point 1mm by 1mm"
+"TP3","TP","BottomLayer","Test_Point","55.2500","35.7500","180","Test Point 1mm by 1mm"
+"TP2","TP","BottomLayer","Test_Point","55.5000","33.7500","180","Test Point 1mm by 1mm"
+"TP1","TP","BottomLayer","Test_Point","54.5000","59.2500","180","Test Point 1mm by 1mm"
+"R32","56K","TopLayer","0805_Resistor","57.2500","71.2390","0","56K Ohm Resistor"
+"R31","1M ohm","TopLayer","FP-CRCW0805-e3-MFG","57.2500","73.0000","0","RES Thick Film, 1MO, 1%, 0.125W, 100ppm/°C, 0805
+1M Ohm Resistor"
+"R19","10KR","TopLayer","FP-CRCW0805-e3-MFG","41.0000","42.8500","270","Resistor 10K Ohm"
+"R18","100R","TopLayer","FP-CRCW0805-e3-MFG","38.5000","50.0500","270","Resistor 100 Ohm"
+"R17","6K8R","TopLayer","FP-CRCW0805-e3-MFG","37.0000","46.2500","270","Resistor 6.8K Ohm"
+"R16","1KR","TopLayer","FP-CRCW0805-e3-MFG","37.4000","42.8500","270","Resistor 1k Ohm"
+"R15","470R","TopLayer","FP-CRCW0805-e3-MFG","44.5000","38.3500","0","Resistor 470 Ohm"
+"R14","470R","TopLayer","FP-CRCW0805-e3-MFG","44.5000","36.5500","0","Resistor 470 Ohm"
+"R13","10R","TopLayer","FP-CRCW1206-e3-IPC_A","59.1666","63.6677","180","RES Thick Film, 10O, 1%, 0.25W, 100ppm/°C, 1206
+MOSFET Gate Resistor 10Ohm"
+"R12","10R","TopLayer","FP-CRCW1206-e3-IPC_A","60.0000","41.2000","0","RES Thick Film, 10O, 1%, 0.25W, 100ppm/°C, 1206
+MOSFET Gate Resistor 10Ohm"
+"R11","4.7Ohm","TopLayer","FP-CRCW1206-e3-IPC_A","59.1666","65.8677","180","RES Thick Film, 4.7O, 1%, 0.25W, 100ppm/°C, 1206
+MOSFET Gate Fast-off Resistor 4.7Ohm"
+"R10","4.7Ohm","TopLayer","FP-CRCW1206-e3-IPC_A","60.0000","38.5000","0","RES Thick Film, 4.7O, 1%, 0.25W, 100ppm/°C, 1206
+MOSFET Gate Fast-off Resistor 4.7Ohm"
+"R9","10K","TopLayer","0805_Resistor","52.6666","54.3677","0","High Presicion 10K Ohm"
+"R8","10K","TopLayer","0805_Resistor","53.5000","29.6000","0","High Presicion 10K Ohm"
+"R7","10K","TopLayer","0805_Resistor","52.6666","56.3676","0","High Presicion 10K Ohm"
+"R6","10K","TopLayer","0805_Resistor","53.5000","31.5000","0","High Presicion 10K Ohm"
+"R5","10R","TopLayer","FP-CRCW1206-e3-IPC_A","59.1666","56.3676","180","RES Thick Film, 10O, 1%, 0.25W, 100ppm/°C, 1206
+MOSFET Gate Resistor 10Ohm"
+"R4","10R","TopLayer","FP-CRCW1206-e3-IPC_A","60.0000","31.2500","180","RES Thick Film, 10O, 1%, 0.25W, 100ppm/°C, 1206
+MOSFET Gate Resistor 10Ohm"
+"R3","4.7Ohm","TopLayer","FP-CRCW1206-e3-IPC_A","59.1666","54.1677","180","RES Thick Film, 4.7O, 1%, 0.25W, 100ppm/°C, 1206
+MOSFET Gate Fast-off Resistor 4.7Ohm"
+"R2","4.7Ohm","TopLayer","FP-CRCW1206-e3-IPC_A","60.0000","29.0000","180","RES Thick Film, 4.7O, 1%, 0.25W, 100ppm/°C, 1206
+MOSFET Gate Fast-off Resistor 4.7Ohm"
+"R1","0R005 5W","TopLayer","FC4L110R005FER","50.0000","22.0000","0","Resistor 0R005 5W"
+"M4","Mosfet","TopLayer","FP-PG-TDSON-8-MFG","65.3750","38.0000","270","MOSFET N-CH 100V 100A 8TDSON
+Mosfet Switcher"
+"M3","Mosfet","TopLayer","FP-PG-TDSON-8-MFG","65.3750","64.0000","270","MOSFET N-CH 100V 100A 8TDSON
+Mosfet Switcher"
+"M2","Mosfet","TopLayer","FP-PG-TDSON-8-MFG","65.3750","31.0000","270","MOSFET N-CH 100V 100A 8TDSON
+Mosfet Switcher"
+"M1","Mosfet","TopLayer","FP-PG-TDSON-8-MFG","65.3750","57.0000","270","MOSFET N-CH 100V 100A 8TDSON
+Mosfet Switcher"
+"J2","61301011821","TopLayer","61301011821","29.0000","78.5000","0","WR-PHD Socket Header, THT, pitch 2.54mm, Single Row, Vertical, 10p"
+"J1","61301011821","TopLayer","61301011821","29.0000","63.2600","0","WR-PHD Socket Header, THT, pitch 2.54mm, Single Row, Vertical, 10p"
+"IC6","5V LDO Regulator","TopLayer","ROHM_TO-252-3","20.6968","56.6144","90","5V LDO Regulator"
+"IC4","Op-Amp","TopLayer","ADI-RJ-5_N","40.3000","46.2500","0","Single Channel RRIO Operational Amplifier, 80 MHz BW, 35 V/us SR, Industrial, 5-pin SOT23 (RJ-5), Reel"
+"IC3","Amplifier","TopLayer","SOIC127P600X175-8N","38.5000","37.5000","270","Integrated Circuit Amplifier"
+"IC2","Gate Drive IC for TX","TopLayer","SOIC127P600X175-8N","54.9666","60.1676","0","Gate Drive IC"
+"IC1","Gate Drive IC for TX","TopLayer","SOIC127P600X175-8N","55.8000","35.0000","0","Gate Drive IC"
+"FL1","2 x 220uH 12A","TopLayer","744844221","17.6000","14.0000","270","Common Mode Choke 220uH 12A"
+"D6","Diode","TopLayer","SOD3716X135N","55.6666","65.1676","90","Diode"
+"D5","Diode","TopLayer","SOD3716X135N","56.5000","40.1000","90","Diode"
+"D4","Diode","TopLayer","SOD3716X135N","55.6666","55.1676","270","Diode"
+"D3","Diode","TopLayer","SOD3716X135N","56.5000","30.0000","270","Diode"
+"D2","Diode","TopLayer","SOD3716X135N","52.1666","63.6677","180","Diode"
+"D1","Diode","TopLayer","SOD3716X135N","53.0000","38.6000","180","Diode"
+"C45","10nF/50V","TopLayer","0805_Capacitor","57.2837","69.4000","0","10nF/50V"
+"C40","2.2uF/25V","TopLayer","0805_Capacitor","27.7000","58.9250","0","2.2uF/25V"
+"C29","10uF/25V","TopLayer","CAPAE530X550N","24.5750","49.4835","180","Capacitor Polarised 10uF/25V"
+"C28","100nF/50V","TopLayer","CAPC2012X90N","26.8350","55.0750","90","100nF/50V"
+"C27","33pF/50V","TopLayer","CAPC2012X90N","41.0000","49.2500","180","Capacitor 33pF/50V"
+"C26","1nF/50V","TopLayer","CAPC2012X90N","41.0000","50.9500","180","1nF/50V"
+"C25","1nF/50V","TopLayer","CAPC2012X90N","39.2000","42.7500","90","1nF/50V"
+"C24","10nF/50V","TopLayer","0805_Capacitor","34.9000","59.1777","90","10nF/50V"
+"C23","100nF/50V","TopLayer","CAPC2012X90N","44.0000","49.2500","180","100nF/50V"
+"C22","100nF/50V","TopLayer","CAPC2012X90N","39.5000","32.9500","180","100nF/50V"
+"C21","1nF/50V","TopLayer","CAPC2012X90N","42.7000","34.7500","180","1nF/50V"
+"C20","1nF/50V","TopLayer","CAPC2012X90N","42.7000","40.0500","180","1nF/50V"
+"C19","1nF/50V","TopLayer","CAPC2012X90N","42.0000","37.4500","270","1nF/50V"
+"C18","100nF/250V","TopLayer","CAPC4532X220N","75.2500","68.2500","180","100nF/250V"
+"C17","100nF/250V","TopLayer","CAPC4532X220N","75.2500","64.2500","180","100nF/250V"
+"C16","1uF/50V","TopLayer","CAPC2012X135N","50.1666","59.6677","90","Capacitor 1uF/50V"
+"C15","1uF/50V","TopLayer","CAPC2012X135N","50.5000","35.2000","90","Capacitor 1uF/50V"
+"C14","100nF/250V","TopLayer","CAPC4532X220N","75.2500","60.2500","180","100nF/250V"
+"C13","100nF/250V","TopLayer","CAPC4532X220N","75.2500","56.2500","180","100nF/250V"
+"C12","100nF/50V","TopLayer","0805_Capacitor","60.1666","59.6677","90","100nF/50V"
+"C11","470nF/275V","TopLayer","890324025039CS","32.0000","9.5000","90","Safety Capacitor, 470nF/275V"
+"C10","100nF, 100V","TopLayer","WCAP-CSGP_0805_H=1.25mm","72.5000","73.7500","270","WCAP-CSGP Multilayer Ceramic Chip Capacitor, General Purpose, size 0805, X7R, 100nF, 100V"
+"C9","100nF, 100V","TopLayer","WCAP-CSGP_0805_H=1.25mm","75.5000","32.0000","180","WCAP-CSGP Multilayer Ceramic Chip Capacitor, General Purpose, size 0805, X7R, 100nF, 100V"
+"C8","220uF/63VDC","TopLayer","CAPPRD500W62D1000H2650","41.8000","5.5000","270","Polarised Cap, 220uF/63VDC"
+"C3","220uF/63V","TopLayer","WCAP-ATUL_D10H16","65.2661","74.3785","0","WCAP-ATUL Aluminum Electrolytic Capacitor, Radial, THT, D10xH16mm, 220uF/63V"
+"C2","100nF/50V","TopLayer","0805_Capacitor","61.0000","34.6000","90","100nF/50V"
+"C1","470nF/275V","TopLayer","890324025039CS","4.0000","16.4043","90","Safety Capacitor, 470nF/275V"

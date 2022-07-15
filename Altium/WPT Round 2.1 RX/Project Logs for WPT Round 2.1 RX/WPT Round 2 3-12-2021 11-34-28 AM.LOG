@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=GND Pin=C41-1
+Removed Pin From Net: NetName=GND Pin=C42-1
+Removed Pin From Net: NetName=5V Pin=R23-2
+Removed Pin From Net: NetName=GND Pin=R27-1
+Removed Pin From Net: NetName=GND Pin=RT1-2
+Removed Pin From Net: NetName=GND Pin=U1-3
+Removed Member From Class: ClassName=WPT Round 2.1 RX Schematics Member=C40
+Removed Member From Class: ClassName=WPT Round 2.1 RX Schematics Member=C41
+Removed Member From Class: ClassName=WPT Round 2.1 RX Schematics Member=C42
+Removed Member From Class: ClassName=WPT Round 2.1 RX Schematics Member=R23
+Removed Member From Class: ClassName=WPT Round 2.1 RX Schematics Member=R24
+Removed Member From Class: ClassName=WPT Round 2.1 RX Schematics Member=R25
+Removed Member From Class: ClassName=WPT Round 2.1 RX Schematics Member=R27
+Removed Member From Class: ClassName=WPT Round 2.1 RX Schematics Member=RT1
+Removed Member From Class: ClassName=WPT Round 2.1 RX Schematics Member=TP10
+Removed Member From Class: ClassName=WPT Round 2.1 RX Schematics Member=TP11
+Removed Member From Class: ClassName=WPT Round 2.1 RX Schematics Member=U1

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=DCDC Input Unfiltered Pin=FL1-2
+Removed Pin From Net: NetName=GND Pin=FL1-4
+Removed Pin From Net: NetName=NetC1_1 Pin=FL1-7
+Removed Pin From Net: NetName=NetC1_2 Pin=FL1-9
+Added Pin To Net: NetName=GND Pin=FL1-2
+Added Pin To Net: NetName=DCDC Input Unfiltered Pin=FL1-4
+Added Pin To Net: NetName=NetC1_2 Pin=FL1-7
+Added Pin To Net: NetName=NetC1_1 Pin=FL1-9

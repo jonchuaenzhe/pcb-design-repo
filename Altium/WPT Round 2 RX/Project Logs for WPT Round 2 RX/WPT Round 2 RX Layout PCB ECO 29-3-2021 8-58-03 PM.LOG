@@ -1,0 +1,15 @@
+Added Component: Designator=L2(WE-PF_1280)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.we-online.de/katalog/media/pdf/742792901.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "ver 6, Apr-2007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "2900 Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Inductor, 2-Leads, Body 12.0 x 12.0 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "WE-PF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "2007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "710-742792901"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=P- Pin=L2-1
+Added Pin To Net: NetName=Vout Pin=L2-2
+Added Member To Class: ClassName=WPT Round 2 RX Schematics Member=Component L2 10A

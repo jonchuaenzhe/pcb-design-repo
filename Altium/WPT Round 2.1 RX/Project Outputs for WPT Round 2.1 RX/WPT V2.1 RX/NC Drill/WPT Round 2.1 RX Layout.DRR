@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: WPT Round 2.1 RX Layout.PcbDoc   4/12/2021  12:42:07 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : WPT Round 2.1 RX Layout.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             196       PTH        795.44mm (31.32inch)
+T2      0.8mm (31mil)                                             Round             8         PTH        90.83mm (3.58inch)
+T3      1.02mm (40mil)                                            Round             20        PTH        60.96mm (2.40inch)
+T4      1.1mm (43mil)                                             Round             4         PTH        8.79mm (0.35inch)
+T5      2mm (79mil)                                               Round             4         PTH        107.54mm (4.23inch)
+T6      3.2mm (126mil)          +0.2mm (8mil)                     Round             4         NPTH       266.25mm (10.48inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              236
+
+Total Processing Time (hh:mm:ss) : 00:00:00

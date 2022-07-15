@@ -1,0 +1,16 @@
+Change Component Footprint: Designator=IC1 Old Footprint=7 PIN PFM New Footprint=7 PIN PFM
+Change Component Footprint: Designator=LED1 Old Footprint=0805_A New Footprint=0805_A
+Change Component Footprint: Designator=J1 Old Footprint=691411510002 New Footprint=691411510002
+Change Component Footprint: Designator=J2 Old Footprint=691411510002 New Footprint=691411510002
+Change Component Footprint: Designator=R1 Old Footprint=FP-CRCW0805-e3-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Component Footprint: Designator=R2 Old Footprint=FP-CRCW0805-e3-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Component Footprint: Designator=R3 Old Footprint=FP-CRCW0805-e3-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Component Footprint: Designator=R4 Old Footprint=FP-CRCW0805-e3-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Component Footprint: Designator=R5 Old Footprint=FP-CRCW0805-e3-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Component Footprint: Designator=R6 Old Footprint=FP-CRCW0805-e3-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Net Name : Old Net Name=NetC1_2 New Net Name=Vin Filtered
+Change Net Name : Old Net Name=NetC3_2 New Net Name=Vin Unfiltered
+Change Net Name : Old Net Name=NetC5_2 New Net Name=12V
+Change Net Name : Old Net Name=NetC10_1 New Net Name=Feedback
+Change Net Name : Old Net Name=NetIC1_2 New Net Name=Ron
+Change Net Name : Old Net Name=NetIC1_3 New Net Name=UVLO

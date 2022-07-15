@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=Vin_Filtered Pin=C9-1
+Added Pin To Net: NetName=Vin_Filtered Pin=C10-1
+Added Pin To Net: NetName=Vin_Filtered Pin=CH1-1
+Added Pin To Net: NetName=Vin_Filtered Pin=R1-1
+Added Pin To Net: NetName=Vin_Filtered Pin=R22-2
+Change Net Name : Old Net Name=Vin_Filtered New Net Name=Global_Vin_Filtered

@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=C42-1
+Removed Pin From Net: NetName=GND Pin=C44-1
+Removed Pin From Net: NetName=5V Pin=R20-2
+Removed Pin From Net: NetName=GND Pin=R30-1
+Removed Pin From Net: NetName=GND Pin=RT1-2
+Removed Pin From Net: NetName=GND Pin=U1-3
+Removed Member From Class: ClassName=Schematics Member=C41
+Removed Member From Class: ClassName=Schematics Member=C42
+Removed Member From Class: ClassName=Schematics Member=C44
+Removed Member From Class: ClassName=Schematics Member=R20
+Removed Member From Class: ClassName=Schematics Member=R24
+Removed Member From Class: ClassName=Schematics Member=R25
+Removed Member From Class: ClassName=Schematics Member=R30
+Removed Member From Class: ClassName=Schematics Member=RT1
+Removed Member From Class: ClassName=Schematics Member=TP13
+Removed Member From Class: ClassName=Schematics Member=TP15
+Removed Member From Class: ClassName=Schematics Member=U1
+Change Component Footprint: Designator=LED1 Old Footprint=0805_A New Footprint=0805_A
+Change Component Footprint: Designator=R21 Old Footprint=FP-CRCW0805-e3-MFG New Footprint=FP-CRCW0805-e3-MFG

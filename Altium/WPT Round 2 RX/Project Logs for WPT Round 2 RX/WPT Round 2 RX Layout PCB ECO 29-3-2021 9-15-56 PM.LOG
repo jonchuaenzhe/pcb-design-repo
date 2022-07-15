@@ -1,0 +1,8 @@
+Added Component: Designator=M5(M3 Hole)
+Added Component: Designator=M6(M3 Hole)
+Added Component: Designator=M7(M3 Hole)
+Added Component: Designator=M8(M3 Hole)
+Added Member To Class: ClassName=WPT Round 2 RX Schematics Member=Component M5 M3 Mounting Hole
+Added Member To Class: ClassName=WPT Round 2 RX Schematics Member=Component M6 M3 Mounting Hole
+Added Member To Class: ClassName=WPT Round 2 RX Schematics Member=Component M7 M3 Mounting Hole
+Added Member To Class: ClassName=WPT Round 2 RX Schematics Member=Component M8 M3 Mounting Hole

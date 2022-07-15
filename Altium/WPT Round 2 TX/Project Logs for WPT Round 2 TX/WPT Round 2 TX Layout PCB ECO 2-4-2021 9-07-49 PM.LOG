@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=P1 Old Footprint=691313510002 New Footprint=691313510002
+Added Component: Designator=R29(0805 Resistor)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERA-6AED153V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vref 3.1V Pin=C41-2
+Added Pin To Net: NetName=NetC41_1 Pin=R24-1
+Added Pin To Net: NetName=NetC27_1 Pin=R29-1
+Added Pin To Net: NetName=Op-Amp Out Pin=R29-2
+Added Pin To Net: NetName=NetC41_1 Pin=R30-2
+Added Member To Class: ClassName=Schematics Member=Component R29 15K

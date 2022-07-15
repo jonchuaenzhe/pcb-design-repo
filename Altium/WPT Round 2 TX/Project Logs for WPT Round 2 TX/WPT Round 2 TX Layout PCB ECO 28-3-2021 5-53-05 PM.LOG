@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=M? NewDesignator=M5
+Change Component Designator: OldDesignator=M? NewDesignator=M6
+Change Component Designator: OldDesignator=M? NewDesignator=M7
+Change Component Designator: OldDesignator=M? NewDesignator=M8
+Added Member To Class: ClassName=Schematics Member=Component M5 M3 Mounting Hole
+Added Member To Class: ClassName=Schematics Member=Component M7 M3 Mounting Hole
+Added Member To Class: ClassName=Schematics Member=Component M8 M3 Mounting Hole

@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=M1-3
+Removed Pin From Net: NetName=NetC8_2 Pin=M2-3
+Removed Pin From Net: NetName=NetC1_1 Pin=M3-3
+Removed Pin From Net: NetName=NetC4_2 Pin=M4-3
+Change Component Footprint: Designator=M1 Old Footprint=FP-PG-TDSON-8-MFG New Footprint=FP-PG-TDSON-8-MFG
+Change Component Footprint: Designator=M2 Old Footprint=FP-PG-TDSON-8-MFG New Footprint=FP-PG-TDSON-8-MFG
+Change Component Footprint: Designator=M3 Old Footprint=FP-PG-TDSON-8-MFG New Footprint=FP-PG-TDSON-8-MFG
+Change Component Footprint: Designator=M4 Old Footprint=FP-PG-TDSON-8-MFG New Footprint=FP-PG-TDSON-8-MFG
+Added Pin To Net: NetName=NetM1_4 Pin=M1-4
+Added Pin To Net: NetName=NetM1_4 Pin=R1-2
+Added Pin To Net: NetName=NetM1_4 Pin=R3-2
+Added Net: Name=NetM1_4
+Added Pin To Net: NetName=NetM2_4 Pin=M2-4
+Added Pin To Net: NetName=NetM2_4 Pin=R5-2
+Added Pin To Net: NetName=NetM2_4 Pin=R11-2
+Added Net: Name=NetM2_4
+Added Pin To Net: NetName=NetM3_4 Pin=M3-4
+Added Pin To Net: NetName=NetM3_4 Pin=R2-1
+Added Pin To Net: NetName=NetM3_4 Pin=R4-1
+Added Net: Name=NetM3_4
+Added Pin To Net: NetName=NetM4_4 Pin=M4-4
+Added Pin To Net: NetName=NetM4_4 Pin=R6-1
+Added Pin To Net: NetName=NetM4_4 Pin=R12-1
+Added Net: Name=NetM4_4

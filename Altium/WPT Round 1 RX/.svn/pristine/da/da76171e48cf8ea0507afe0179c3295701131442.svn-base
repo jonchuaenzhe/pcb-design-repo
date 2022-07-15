@@ -1,0 +1,56 @@
+Added Component: Designator=M1(TRANS_BSZ037N06LS5ATMA1)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Infineon Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BSZ037N06LS5ATMA1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TSDSON-8 Infineon Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BSZ037N06LS5ATMA1/Infineon%20Technologies/view-part/4422719/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "726-BSZ070N08LS5ATMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=M2(TRANS_BSZ037N06LS5ATMA1)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Infineon Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BSZ037N06LS5ATMA1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TSDSON-8 Infineon Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BSZ037N06LS5ATMA1/Infineon%20Technologies/view-part/4422719/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "726-BSZ070N08LS5ATMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=M3(TRANS_BSZ037N06LS5ATMA1)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Infineon Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BSZ037N06LS5ATMA1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TSDSON-8 Infineon Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BSZ037N06LS5ATMA1/Infineon%20Technologies/view-part/4422719/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "726-BSZ070N08LS5ATMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=M4(TRANS_BSZ037N06LS5ATMA1)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Infineon Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BSZ037N06LS5ATMA1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TSDSON-8 Infineon Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BSZ037N06LS5ATMA1/Infineon%20Technologies/view-part/4422719/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "726-BSZ070N08LS5ATMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC5_1 Pin=M1-1-2-3
+Added Pin To Net: NetName=NetM1_4 Pin=M1-4
+Added Pin To Net: NetName=Power Out Pre-Filter Pin=M1-5-6-7-8
+Added Pin To Net: NetName=Power In 1 Pin=M2-1-2-3
+Added Pin To Net: NetName=NetM2_4 Pin=M2-4
+Added Pin To Net: NetName=Power Out Pre-Filter Pin=M2-5-6-7-8
+Added Pin To Net: NetName=GND Pin=M3-1-2-3
+Added Pin To Net: NetName=NetM3_4 Pin=M3-4
+Added Pin To Net: NetName=NetC5_1 Pin=M3-5-6-7-8
+Added Pin To Net: NetName=GND Pin=M4-1-2-3
+Added Pin To Net: NetName=NetM4_4 Pin=M4-4
+Added Pin To Net: NetName=Power In 1 Pin=M4-5-6-7-8
+Added Member To Class: ClassName=Schematics Member=Component M1 BSZ070N08LS5ATMA1
+Added Member To Class: ClassName=Schematics Member=Component M2 BSZ070N08LS5ATMA1
+Added Member To Class: ClassName=Schematics Member=Component M3 BSZ070N08LS5ATMA1
+Added Member To Class: ClassName=Schematics Member=Component M4 BSZ070N08LS5ATMA1

@@ -1,0 +1,12 @@
+Added Component: Designator=R37(PWR163S253000FE)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/PWR163S-25-3000FE.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.79mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PWR163S-25-3000FE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "652-PWR163S253000FE"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vout Pin=R37-1
+Added Pin To Net: NetName=GND Pin=R37-2
+Added Member To Class: ClassName=WPT Round 2 RX Schematics Member=Component R37 300 Ohm / 25W

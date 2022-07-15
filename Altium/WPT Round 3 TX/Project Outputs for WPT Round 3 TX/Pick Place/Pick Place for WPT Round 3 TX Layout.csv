@@ -1,0 +1,131 @@
+Altium Designer Pick and Place Locations
+C:\Users\Lingke\Desktop\Personal\Altium\WPT Round 3 TX\Project Outputs for WPT Round 3 TX\Pick Place\Pick Place for WPT Round 3 TX Layout.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       02/01/22
+Time:       19:23
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"P2","XT60-F","TopLayer","AMASS_XT60PW-F","3070.866","1968.504","90","Socket DC Supply Connector Female"
+"P1","XT60-F","TopLayer","AMASS_XT60PW-F","275.591","1574.803","270","Socket DC Supply Connector Female"
+"C35","100uF, 16V","TopLayer","WCAP-ASLI_D6.3H5.5","1220.472","2047.244","90","WCAP-ASLI Aluminum Electrolytic Capacitor, V-Chip, SMT, D6.3xH5.5mm, 100uF, 16V"
+"U1","Shunt Voltage Reference Diode","TopLayer","SOT23-3_N","1828.740","2982.284","0","Shunt voltage reference, adjustable, 1.24 to 10V, 0.5% precision, 3-Pin SOT23-3L, Tape and Reel"
+"TP12","TP","BottomLayer","Test_Point","145.290","2343.172","90","Test Point 1mm by 1mm"
+"TP11","TP","BottomLayer","Test_Point","425.197","2326.772","180","Test Point 1mm by 1mm"
+"TP10","TP","BottomLayer","Test_Point","1840.551","3080.709","90","Test Point 1mm by 1mm"
+"TP9","TP","BottomLayer","Test_Point","1712.598","2864.173","180","Test Point 1mm by 1mm"
+"TP8","TP","BottomLayer","Test_Point","2244.095","2496.063","180","Test Point 1mm by 1mm"
+"TP7","TP","BottomLayer","Test_Point","2244.095","1830.709","180","Test Point 1mm by 1mm"
+"TP6","TP","BottomLayer","Test_Point","2637.795","1653.543","180","Test Point 1mm by 1mm"
+"TP5","TP","BottomLayer","Test_Point","2629.921","2314.961","180","Test Point 1mm by 1mm"
+"TP4","TP","BottomLayer","Test_Point","2066.929","1614.173","180","Test Point 1mm by 1mm"
+"TP3","TP","BottomLayer","Test_Point","2076.772","2303.150","180","Test Point 1mm by 1mm"
+"TP2","TP","BottomLayer","Test_Point","2244.095","1427.165","180","Test Point 1mm by 1mm"
+"TP1","TP","BottomLayer","Test_Point","2232.284","2129.921","180","Test Point 1mm by 1mm"
+"RT1","Thermistor 10K","TopLayer","THRMC2012X95N","2726.378","2618.110","180","Thermistor 10Kohm B Parameter: 3950k"
+"R27","5K Ohm","TopLayer","FP-CRCW0805-e3-MFG","1043.307","1929.134","90","Resistor 5K Ohm"
+"R26","2KO","TopLayer","FP-CRCW0805-e3-MFG","108.268","2621.012","180","RES Thick Film, 2kO, 1%, 0.125W, 100ppm/°C, 0805"
+"R25","2KO","TopLayer","FP-CRCW0805-e3-MFG","1062.992","2381.890","180","RES Thick Film, 2kO, 1%, 0.125W, 100ppm/°C, 0805"
+"R24","43K Ohm","TopLayer","FP-CRCW0805-e3-MFG","1043.307","2066.929","90","Resistor 43K Ohm"
+"R23","56K","TopLayer","0805_Resistor","1574.803","1751.968","0","56K Ohm Resistor"
+"R22","3R","TopLayer","1206_Resistor","1220.472","1082.677","180","Resistor 3 Ohm"
+"R21","1M ohm","TopLayer","FP-CRCW0805-e3-MFG","1692.913","1650.758","270","RES Thick Film, 1MO, 1%, 0.125W, 100ppm/°C, 0805
+1M Ohm Resistor"
+"R19","10K","TopLayer","0805_Resistor","1580.709","3029.528","0","High Presicion 10K Ohm"
+"R18","15K","TopLayer","0805_Resistor","1707.844","2992.126","270","High Presicion 15K Ohm"
+"R17","10k","TopLayer","0805_Resistor","1836.614","2775.591","180","High Presition and High reliability 10K Ohm Resistor"
+"R16","470R","TopLayer","FP-CRCW0805-e3-MFG","1751.968","1240.158","270","Resistor 470 Ohm"
+"R15","470R","TopLayer","FP-CRCW0805-e3-MFG","1988.189","1240.158","270","Resistor 470 Ohm"
+"R14","1KR","TopLayer","FP-CRCW0805-e3-MFG","1580.709","2952.756","180","Resistor 1k Ohm"
+"R13","10R","TopLayer","FP-CRCW1206-e3-IPC_A","2460.630","2468.504","180","RES Thick Film, 10O, 1%, 0.25W, 100ppm/°C, 1206
+MOSFET Gate Resistor 10Ohm"
+"R12","10R","TopLayer","FP-CRCW1206-e3-IPC_A","2460.630","1811.024","180","RES Thick Film, 10O, 1%, 0.25W, 100ppm/°C, 1206
+MOSFET Gate Resistor 10Ohm"
+"R11","4.7Ohm","TopLayer","FP-CRCW1206-e3-IPC_A","2460.630","2381.890","180","RES Thick Film, 4.7O, 1%, 0.25W, 100ppm/°C, 1206
+MOSFET Gate Fast-off Resistor 4.7Ohm"
+"R10","4.7Ohm","TopLayer","FP-CRCW1206-e3-IPC_A","2460.630","1712.598","180","RES Thick Film, 4.7O, 1%, 0.25W, 100ppm/°C, 1206
+MOSFET Gate Fast-off Resistor 4.7Ohm"
+"R9","10KR","TopLayer","FP-CRCW0805-e3-MFG","1883.691","2287.628","0","Resistor 10K Ohm"
+"R8","10KR","TopLayer","FP-CRCW0805-e3-MFG","1883.691","2216.535","0","Resistor 10K Ohm"
+"R7","10KR","TopLayer","FP-CRCW0805-e3-MFG","1881.890","1515.748","0","Resistor 10K Ohm"
+"R6","10KR","TopLayer","FP-CRCW0805-e3-MFG","1881.890","1602.362","0","Resistor 10K Ohm"
+"R5","10R","TopLayer","FP-CRCW1206-e3-IPC_A","2460.630","2153.543","180","RES Thick Film, 10O, 1%, 0.25W, 100ppm/°C, 1206
+MOSFET Gate Resistor 10Ohm"
+"R4","10R","TopLayer","FP-CRCW1206-e3-IPC_A","2460.630","1496.063","180","RES Thick Film, 10O, 1%, 0.25W, 100ppm/°C, 1206
+MOSFET Gate Resistor 10Ohm"
+"R3","4.7Ohm","TopLayer","FP-CRCW1206-e3-IPC_A","2460.630","2066.929","180","RES Thick Film, 4.7O, 1%, 0.25W, 100ppm/°C, 1206
+MOSFET Gate Fast-off Resistor 4.7Ohm"
+"R2","4.7Ohm","TopLayer","FP-CRCW1206-e3-IPC_A","2460.630","1397.638","180","RES Thick Film, 4.7O, 1%, 0.25W, 100ppm/°C, 1206
+MOSFET Gate Fast-off Resistor 4.7Ohm"
+"R1","0R005 5W","TopLayer","FC4L110R005FER","1866.958","994.262","0","Resistor 0R005 5W"
+"P3","61300211121","TopLayer","61300211121","1820.866","2651.604","180","WR-PHD Pin Header, THT, pitch 2.54mm, Single Row, Vertical, 2p"
+"M8","M3 Mounting Hole","TopLayer","M3_Hole","3228.347","118.110","0",""
+"M7","M3 Mounting Hole","TopLayer","M3_Hole","3228.347","3031.496","0",""
+"M6","M3 Mounting Hole","TopLayer","M3_Hole","118.110","3031.496","0",""
+"M5","M3 Mounting Hole","TopLayer","M3_Hole","118.110","118.110","0",""
+"M4","Mosfet","TopLayer","FP-PG-TDSON-8-MFG","2680.118","2468.504","270","MOSFET N-CH 100V 100A 8TDSON
+Mosfet Switcher"
+"M3","Mosfet","TopLayer","FP-PG-TDSON-8-MFG","2680.118","1803.150","270","MOSFET N-CH 100V 100A 8TDSON
+Mosfet Switcher"
+"M2","Mosfet","TopLayer","FP-PG-TDSON-8-MFG","2680.118","2165.354","270","MOSFET N-CH 100V 100A 8TDSON
+Mosfet Switcher"
+"M1","Mosfet","TopLayer","FP-PG-TDSON-8-MFG","2680.118","1500.000","270","MOSFET N-CH 100V 100A 8TDSON
+Mosfet Switcher"
+"L1","100uH/2.1A/150mOhm","TopLayer","INDPM125125X800N","728.346","2145.669","90","Inductor"
+"J2","61301011821","TopLayer","61301011821","905.512","3090.551","0","WR-PHD Socket Header, THT, pitch 2.54mm, Single Row, Vertical, 10p"
+"J1","61301011821","TopLayer","61301011821","905.512","2490.551","0","WR-PHD Socket Header, THT, pitch 2.54mm, Single Row, Vertical, 10p"
+"IC5","DCDC Adj","TopLayer","TO-263-5","759.843","1483.268","270",""
+"IC4","5V LDO Regulator","TopLayer","ROHM_TO-252-3","155.512","2189.961","180","5V LDO Regulator"
+"IC3","Amplifier","TopLayer","SOIC127P600X175-8N","1584.646","1466.535","180","Integrated Circuit Amplifier"
+"IC2","Gate Drive IC for TX","TopLayer","SOIC127P600X175-8N","2106.299","2273.622","0","Gate Drive IC"
+"IC1","Gate Drive IC for TX","TopLayer","SOIC127P600X175-8N","2106.299","1594.488","0","Gate Drive IC"
+"D9","Green, 3.2V","TopLayer","WL-SMCW_0805","1242.293","2381.890","180","WL-SMCW SMT Mono-color Chip LED Waterclear, size 0805, Green, 3.2V, 140deg"
+"D8","Green, 3.2V","TopLayer","WL-SMCW_0805","158.754","2501.506","270","WL-SMCW SMT Mono-color Chip LED Waterclear, size 0805, Green, 3.2V, 140deg"
+"D7","Schottky Diode","TopLayer","DIONM8059X265N","1181.102","1732.284","0","Schottky Diode"
+"D6","Diode","TopLayer","SOD3716X135N","2322.835","2438.282","270","Diode"
+"D5","Diode","TopLayer","SOD3716X135N","2322.835","1771.653","270","Diode"
+"D4","Diode","TopLayer","SOD3716X135N","2086.614","2421.260","180","Diode"
+"D3","Diode","TopLayer","SOD3716X135N","2086.614","1751.968","180","Diode"
+"D2","Diode","TopLayer","SOD3716X135N","2322.835","2096.457","270","Diode"
+"D1","Diode","TopLayer","SOD3716X135N","2322.835","1437.008","270","Diode"
+"CH1","Common Mode Chokes","TopLayer","PA5141205NLT","826.772","523.455","180","Filter"
+"C37","1uF, 25V","TopLayer","WCAP-CSGP_0805_H=1.25mm","1062.992","2224.409","0","WCAP-CSGP Multilayer Ceramic Chip Capacitor, General Purpose, size 0805, X7R, 1uF, 25V"
+"C36","33nF, 25V","TopLayer","WCAP-CSGP_0805_H=0.8mm_Reflow","669.291","1830.709","180","WCAP-CSGP Multilayer Ceramic Chip Capacitor, General Purpose, size 0805, X7R, 33nF, 25V"
+"C34","100nF, 100V","TopLayer","WCAP-CSGP_0805_H=1.25mm","1102.362","1574.803","180","WCAP-CSGP Multilayer Ceramic Chip Capacitor, General Purpose, size 0805, X7R, 100nF, 100V"
+"C33","100uF / 100VDC","TopLayer","CAPPRD500W60D1000H2200","1200.787","1338.583","0","Capacitor Polarised"
+"C32","10nF, 100V","TopLayer","WCAP-CSGP_0805_H=0.8mm_Reflow","610.236","2982.284","0","WCAP-CSGP Multilayer Ceramic Chip Capacitor, General Purpose, size 0805, X7R, 10nF, 100V"
+"C31","10nF, 100V","TopLayer","WCAP-CSGP_0805_H=0.8mm_Reflow","1574.803","1673.228","0","WCAP-CSGP Multilayer Ceramic Chip Capacitor, General Purpose, size 0805, X7R, 10nF, 100V"
+"C30","2.2uF/25V","TopLayer","0805_Capacitor","59.055","2485.880","90","2.2uF/25V"
+"C29","10uF / 16V","TopLayer","0805_Capacitor","361.573","2135.827","90","100nF/50V"
+"C28","100nF/50V","TopLayer","CAPC2012X90N","334.646","2292.219","270","100nF/50V"
+"C27","10nF/50V","TopLayer","0805_Capacitor","1200.787","2618.110","180","10nF/50V"
+"C26","100nF/50V","TopLayer","0805_Capacitor","1436.313","1674.502","90","100nF/50V"
+"C25","100nF/50V","TopLayer","0805_Capacitor","1989.585","2824.803","270","100nF/50V"
+"C24","10nF/50V","TopLayer","0805_Capacitor","1836.614","2864.173","180","10nF/50V"
+"C23","1nF/50V","TopLayer","CAPC2012X90N","1748.031","3100.394","180","1nF/50V"
+"C21","1nF, 100V","TopLayer","WCAP-CSGP_0805_H=0.8mm_Reflow","1771.653","1397.638","270","WCAP-CSGP Multilayer Ceramic Chip Capacitor, General Purpose, size 0805, X7R, 1nF, 100V"
+"C20","1nF, 100V","TopLayer","WCAP-CSGP_0805_H=0.8mm_Reflow","1496.063","1311.840","180","WCAP-CSGP Multilayer Ceramic Chip Capacitor, General Purpose, size 0805, X7R, 1nF, 100V"
+"C19","1nF, 100V","TopLayer","WCAP-CSGP_0805_H=0.8mm_Reflow","1868.110","1259.842","180","WCAP-CSGP Multilayer Ceramic Chip Capacitor, General Purpose, size 0805, X7R, 1nF, 100V"
+"C18","100nF/250V","TopLayer","CAPC4532X220N","3051.181","2838.583","180","100nF/250V"
+"C17","100nF/250V","TopLayer","CAPC4532X220N","3051.181","2682.415","180","100nF/250V"
+"C16","100nF/250V","TopLayer","CAPC4532X220N","3051.181","2526.247","180","100nF/250V"
+"C15","1uF/50V","TopLayer","CAPC2012X135N","1914.203","1702.756","270","Capacitor 1uF/50V"
+"C14","1uF/50V","TopLayer","CAPC2012X135N","1914.203","2391.732","270","Capacitor 1uF/50V"
+"C13","100nF/50V","TopLayer","0805_Capacitor","2440.945","2273.622","180","100nF/50V"
+"C12","100nF/50V","TopLayer","0805_Capacitor","2362.205","1604.331","180","100nF/50V"
+"C11","100nF/250V","TopLayer","CAPC4532X220N","3051.968","2370.079","180","100nF/250V"
+"C10","470nF/275V","TopLayer","890324025039CS","1496.063","807.087","90","Safety Capacitor, 470nF/275V"
+"C9","220uF/63VDC","TopLayer","CAPPRD500W62D1000H2650","1515.748","216.536","270","Polarised Cap, 220uF/63VDC"
+"C8","470nF/275V","TopLayer","890324025039CS","167.323","610.236","270","Safety Capacitor, 470nF/275V"
+"C7","1000uF, 63V","TopLayer","WCAP-ATG8_D16H25","3031.496","913.386","270","WCAP-ATG8 Aluminum Electrolytic Capacitor, Radial, THT, D16xH25, 1000uF, 63V"
+"C6","1000uF, 63V","TopLayer","WCAP-ATG8_D16H25","2736.220","314.961","180","WCAP-ATG8 Aluminum Electrolytic Capacitor, Radial, THT, D16xH25, 1000uF, 63V"
+"C5","1000uF, 63V","TopLayer","WCAP-ATG8_D16H25","2362.205","913.386","0","WCAP-ATG8 Aluminum Electrolytic Capacitor, Radial, THT, D16xH25, 1000uF, 63V"
+"C4","1000uF, 63V","TopLayer","WCAP-ATG8_D16H25","2059.055","314.961","90","WCAP-ATG8 Aluminum Electrolytic Capacitor, Radial, THT, D16xH25, 1000uF, 63V"
+"C3","100nF, 100V","TopLayer","WCAP-CSGP_0805_H=1.25mm","2785.433","2952.756","270","WCAP-CSGP Multilayer Ceramic Chip Capacitor, General Purpose, size 0805, X7R, 100nF, 100V"
+"C2","100nF, 100V","TopLayer","WCAP-CSGP_0805_H=1.25mm","3125.984","1507.874","180","WCAP-CSGP Multilayer Ceramic Chip Capacitor, General Purpose, size 0805, X7R, 100nF, 100V"
+"C1","220uF/63VDC","TopLayer","CAPPRD500W62D1000H2650","2522.470","2933.071","180","Polarised Cap, 220uF/63VDC"

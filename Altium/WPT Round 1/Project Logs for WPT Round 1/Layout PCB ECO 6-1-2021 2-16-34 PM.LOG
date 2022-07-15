@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=NetC8_2 Pin=P4-1
+Removed Pin From Net: NetName=NetC4_1 Pin=P4-2
+Change Component Footprint: Designator=P1 Old Footprint=61300211121 New Footprint=61300211121
+Change Component Footprint: Designator=P3 Old Footprint=61300311121 New Footprint=61300311121
+Change Component Footprint: Designator=P4 Old Footprint=691313510002 New Footprint=691313510002
+Change Component Footprint: Designator=R1 Old Footprint=FP-CRCW1206-e3-IPC_A New Footprint=FP-CRCW1206-e3-IPC_A
+Change Component Footprint: Designator=R2 Old Footprint=FP-CRCW1206-e3-IPC_A New Footprint=FP-CRCW1206-e3-IPC_A
+Change Component Footprint: Designator=R3 Old Footprint=FP-CRCW1206-e3-IPC_A New Footprint=FP-CRCW1206-e3-IPC_A
+Change Component Footprint: Designator=R4 Old Footprint=FP-CRCW1206-e3-IPC_A New Footprint=FP-CRCW1206-e3-IPC_A
+Change Component Footprint: Designator=R5 Old Footprint=FP-CRCW1206-e3-IPC_A New Footprint=FP-CRCW1206-e3-IPC_A
+Change Component Footprint: Designator=R6 Old Footprint=FP-CRCW1206-e3-IPC_A New Footprint=FP-CRCW1206-e3-IPC_A
+Change Component Footprint: Designator=R11 Old Footprint=FP-CRCW1206-e3-IPC_A New Footprint=FP-CRCW1206-e3-IPC_A
+Change Component Footprint: Designator=R12 Old Footprint=FP-CRCW1206-e3-IPC_A New Footprint=FP-CRCW1206-e3-IPC_A
+Change Component Footprint: Designator=M1 Old Footprint=FP-PG-TDSON-8-MFG New Footprint=FP-PG-TDSON-8-MFG
+Change Component Footprint: Designator=M2 Old Footprint=FP-PG-TDSON-8-MFG New Footprint=FP-PG-TDSON-8-MFG
+Change Component Footprint: Designator=M3 Old Footprint=FP-PG-TDSON-8-MFG New Footprint=FP-PG-TDSON-8-MFG
+Change Component Footprint: Designator=M4 Old Footprint=FP-PG-TDSON-8-MFG New Footprint=FP-PG-TDSON-8-MFG
+Change Component Footprint: Designator=R7 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Change Component Footprint: Designator=R8 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Change Component Footprint: Designator=R9 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Change Component Footprint: Designator=R10 Old Footprint=RESC2013X50X30ML20T20 New Footprint=RESC2013X50X30ML20T20
+Added Pin To Net: NetName=NetC4_1 Pin=P4-1
+Added Pin To Net: NetName=NetC8_2 Pin=P4-2

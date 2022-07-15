@@ -1,0 +1,75 @@
+Change Component Footprint: Designator=R6 Old Footprint=FP-CRCW0805-e3-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Component Footprint: Designator=R7 Old Footprint=FP-CRCW0805-e3-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Component Footprint: Designator=R8 Old Footprint=FP-CRCW0805-e3-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Component Footprint: Designator=R9 Old Footprint=FP-CRCW0805-e3-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Component Footprint: Designator=R14 Old Footprint=FP-CRCW0805-e3-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Component Footprint: Designator=R15 Old Footprint=FP-CRCW0805-e3-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Component Footprint: Designator=R16 Old Footprint=FP-CRCW0805-e3-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Component Footprint: Designator=R21 Old Footprint=FP-CRCW0805-e3-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Component Footprint: Designator=R24 Old Footprint=FP-CRCW0805-e3-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Component Footprint: Designator=R25 Old Footprint=FP-CRCW0805-e3-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Component Footprint: Designator=R26 Old Footprint=FP-CRCW0805-e3-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Component Footprint: Designator=R27 Old Footprint=FP-CRCW0805-e3-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Component Footprint: Designator=R2 Old Footprint=FP-CRCW1206-e3-IPC_A New Footprint=FP-CRCW1206-e3-IPC_A
+Change Component Footprint: Designator=R3 Old Footprint=FP-CRCW1206-e3-IPC_A New Footprint=FP-CRCW1206-e3-IPC_A
+Change Component Footprint: Designator=R4 Old Footprint=FP-CRCW1206-e3-IPC_A New Footprint=FP-CRCW1206-e3-IPC_A
+Change Component Footprint: Designator=R5 Old Footprint=FP-CRCW1206-e3-IPC_A New Footprint=FP-CRCW1206-e3-IPC_A
+Change Component Footprint: Designator=R10 Old Footprint=FP-CRCW1206-e3-IPC_A New Footprint=FP-CRCW1206-e3-IPC_A
+Change Component Footprint: Designator=R11 Old Footprint=FP-CRCW1206-e3-IPC_A New Footprint=FP-CRCW1206-e3-IPC_A
+Change Component Footprint: Designator=R12 Old Footprint=FP-CRCW1206-e3-IPC_A New Footprint=FP-CRCW1206-e3-IPC_A
+Change Component Footprint: Designator=R13 Old Footprint=FP-CRCW1206-e3-IPC_A New Footprint=FP-CRCW1206-e3-IPC_A
+Change Component Footprint: Designator=M1 Old Footprint=FP-PG-TDSON-8-MFG New Footprint=FP-PG-TDSON-8-MFG
+Change Component Footprint: Designator=M2 Old Footprint=FP-PG-TDSON-8-MFG New Footprint=FP-PG-TDSON-8-MFG
+Change Component Footprint: Designator=M3 Old Footprint=FP-PG-TDSON-8-MFG New Footprint=FP-PG-TDSON-8-MFG
+Change Component Footprint: Designator=M4 Old Footprint=FP-PG-TDSON-8-MFG New Footprint=FP-PG-TDSON-8-MFG
+Change Component Footprint: Designator=U1 Old Footprint=SOT23-3_N New Footprint=SOT23-3_N
+Added Component: Designator=C35(WCAP-ASLI_D6.3H5.5)
+Add component (AddParameter): Name = "Capacitance"; Value = "100uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "+/-20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/catalog/datasheet/865080343009.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "6.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dissipation Factor"; Value = "16%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Endurance"; Value = "2000h"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leakage Current"; Value = "16uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "865080343009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55 to +105degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "October 2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "16VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "255mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technical Reference"; Value = "ASED055101M016DVCTBB000"; VariantName = "[No Variations]"
+Added Component: Designator=P1(AMASS_XT60PW-F)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BuyPart"; Value = "https://www.snapeda.com/parts/XT60PW-F/AMASS/view-part/2890674/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AMASS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "XT60PW-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/XT60PW-F/AMASS/view-part/2890674/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P2(AMASS_XT60PW-F)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BuyPart"; Value = "https://www.snapeda.com/parts/XT60PW-F/AMASS/view-part/2890674/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AMASS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "XT60PW-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/XT60PW-F/AMASS/view-part/2890674/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V Pin=C35-1
+Added Pin To Net: NetName=GND Pin=C35-2
+Added Pin To Net: NetName=Global_Vin_Pre_Filter Pin=P1-1
+Added Pin To Net: NetName=Global_GND_Pre_Filter Pin=P1-2
+Added Pin To Net: NetName=Global_GND_Pre_Filter Pin=P1-S1
+Added Pin To Net: NetName=Global_GND_Pre_Filter Pin=P1-S2
+Added Pin To Net: NetName=NetC12_1 Pin=P2-1
+Added Pin To Net: NetName=NetC11_1 Pin=P2-2
+Added Member To Class: ClassName=Schematics Member=Component C35 100uF, 16V
+Added Member To Class: ClassName=Schematics Member=Component P1 XT60-F
+Added Member To Class: ClassName=Schematics Member=Component P2 XT60-F

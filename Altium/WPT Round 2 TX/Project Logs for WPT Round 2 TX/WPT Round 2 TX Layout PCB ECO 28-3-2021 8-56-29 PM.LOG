@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=Vin - Pin=R1-1
+Removed Pin From Net: NetName=DCDC Input Unfiltered Pin=R1-2
+Removed Pin From Net: NetName=In + Pin=R1-3
+Removed Pin From Net: NetName=In - Pin=R1-4
+Added Pin To Net: NetName=DCDC Input Unfiltered Pin=R1-1
+Added Pin To Net: NetName=Vin - Pin=R1-2
+Added Pin To Net: NetName=In - Pin=R1-3
+Added Pin To Net: NetName=In + Pin=R1-4

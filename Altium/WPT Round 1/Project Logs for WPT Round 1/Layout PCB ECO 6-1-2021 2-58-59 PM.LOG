@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=M2 NewDesignator=M3
+Change Component Designator: OldDesignator=M3 NewDesignator=M4
+Change Component Designator: OldDesignator=M4 NewDesignator=M2
+Change Net Name : Old Net Name=NetM2_4 New Net Name=NetM3_4
+Change Net Name : Old Net Name=NetM3_4 New Net Name=NetM4_4
+Change Net Name : Old Net Name=NetM4_4 New Net Name=NetM2_4

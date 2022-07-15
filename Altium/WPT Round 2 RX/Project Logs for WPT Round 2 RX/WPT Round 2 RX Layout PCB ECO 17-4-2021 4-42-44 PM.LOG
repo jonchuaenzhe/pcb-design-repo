@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Rectifier Vin 1 Pin=P1-1
+Removed Pin From Net: NetName=Power In 1 Pin=P1-2
+Change Component Footprint: Designator=P1 Old Footprint=691313510002 New Footprint=691313510002
+Change Component Comment : Designator=P1 Old Comment=System Output New Comment=System Input
+Added Pin To Net: NetName=Power In 1 Pin=P1-1
+Added Pin To Net: NetName=Rectifier Vin 1 Pin=P1-2

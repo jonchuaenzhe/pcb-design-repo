@@ -1,0 +1,27 @@
+Added Component: Designator=TP1(Test Point)
+Added Component: Designator=TP2(Test Point)
+Added Component: Designator=TP3(Test Point)
+Added Component: Designator=TP4(Test Point)
+Added Component: Designator=TP5(Test Point)
+Added Component: Designator=TP6(Test Point)
+Added Component: Designator=TP7(Test Point)
+Added Component: Designator=TP8(Test Point)
+Added Component: Designator=TP9(Test Point)
+Added Pin To Net: NetName=NetD1_1 Pin=TP1-1
+Added Pin To Net: NetName=NetD2_1 Pin=TP2-1
+Added Pin To Net: NetName=PWM_A Pin=TP3-1
+Added Pin To Net: NetName=PWM_B Pin=TP4-1
+Added Pin To Net: NetName=NetC8_2 Pin=TP5-1
+Added Pin To Net: NetName=NetC4_2 Pin=TP6-1
+Added Pin To Net: NetName=PWM_EN Pin=TP7-1
+Added Pin To Net: NetName=NetD5_1 Pin=TP8-1
+Added Pin To Net: NetName=NetD6_1 Pin=TP9-1
+Added Member To Class: ClassName=Schematics Member=Component TP1 TP
+Added Member To Class: ClassName=Schematics Member=Component TP2 TP
+Added Member To Class: ClassName=Schematics Member=Component TP3 TP
+Added Member To Class: ClassName=Schematics Member=Component TP4 TP
+Added Member To Class: ClassName=Schematics Member=Component TP5 TP
+Added Member To Class: ClassName=Schematics Member=Component TP6 TP
+Added Member To Class: ClassName=Schematics Member=Component TP7 TP
+Added Member To Class: ClassName=Schematics Member=Component TP8 TP
+Added Member To Class: ClassName=Schematics Member=Component TP9 TP

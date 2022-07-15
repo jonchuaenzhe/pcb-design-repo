@@ -1,0 +1,24 @@
+Added Component: Designator=C4(CAPPRD500W62D1300H2650)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "80-ESH108M050AL4AA"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAPPRD500W62D1300H2650)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "80-ESH108M050AL4AA"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAPPRD500W62D1300H2650)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "80-ESH108M050AL4AA"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAPPRD500W62D1300H2650)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "80-ESH108M050AL4AA"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vin - Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=Vin - Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=Vin - Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=Vin - Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Member To Class: ClassName=Schematics Member=Component C4 1000uF/50V
+Added Member To Class: ClassName=Schematics Member=Component C5 1000uF/50V
+Added Member To Class: ClassName=Schematics Member=Component C6 1000uF/50V
+Added Member To Class: ClassName=Schematics Member=Component C7 1000uF/50V

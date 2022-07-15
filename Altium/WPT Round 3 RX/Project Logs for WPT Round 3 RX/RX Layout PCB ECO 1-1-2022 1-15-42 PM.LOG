@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=NetC12_1 Pin=P3-1
+Removed Pin From Net: NetName=NetC17_1 Pin=P3-2
+Change Component Footprint: Designator=C16 Old Footprint=FP-C1206C-EB-MFG New Footprint=FP-C1206C-EB-MFG
+Change Component Footprint: Designator=C19 Old Footprint=FP-C1206C-EB-MFG New Footprint=FP-C1206C-EB-MFG
+Change Component Footprint: Designator=C21 Old Footprint=FP-C1206C-EB-MFG New Footprint=FP-C1206C-EB-MFG
+Change Component Footprint: Designator=C25 Old Footprint=FP-C1206C-EB-MFG New Footprint=FP-C1206C-EB-MFG
+Change Component Footprint: Designator=R2 Old Footprint=FP-CRCW0805-e3-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Component Footprint: Designator=R3 Old Footprint=FP-CRCW0805-e3-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Component Footprint: Designator=R6 Old Footprint=FP-CRCW0805-e3-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Component Footprint: Designator=R7 Old Footprint=FP-CRCW0805-e3-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Component Footprint: Designator=R8 Old Footprint=FP-CRCW0805-e3-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Component Footprint: Designator=R9 Old Footprint=FP-CRCW0805-e3-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Component Footprint: Designator=R10 Old Footprint=FP-CRCW0805-e3-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Component Footprint: Designator=R13 Old Footprint=FP-CRCW0805-e3-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Component Footprint: Designator=R14 Old Footprint=FP-CRCW0805-e3-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Component Footprint: Designator=R18 Old Footprint=FP-CRCW0805-e3-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Component Footprint: Designator=R19 Old Footprint=FP-CRCW0805-e3-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Component Footprint: Designator=R20 Old Footprint=FP-CRCW0805-e3-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Component Footprint: Designator=R21 Old Footprint=FP-CRCW0805-e3-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Component Footprint: Designator=R23 Old Footprint=FP-CRCW0805-e3-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Component Footprint: Designator=R24 Old Footprint=FP-CRCW0805-e3-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Component Footprint: Designator=R26 Old Footprint=FP-CRCW0805-e3-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Component Footprint: Designator=R27 Old Footprint=FP-CRCW0805-e3-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Component Footprint: Designator=R29 Old Footprint=FP-CRCW0805-e3-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Component Footprint: Designator=R4 Old Footprint=FP-CRCW1206-e3-IPC_A New Footprint=FP-CRCW1206-e3-IPC_A
+Change Component Footprint: Designator=R5 Old Footprint=FP-CRCW1206-e3-IPC_A New Footprint=FP-CRCW1206-e3-IPC_A
+Change Component Footprint: Designator=R15 Old Footprint=FP-CRCW1206-e3-IPC_A New Footprint=FP-CRCW1206-e3-IPC_A
+Change Component Footprint: Designator=R16 Old Footprint=FP-CRCW1206-e3-IPC_A New Footprint=FP-CRCW1206-e3-IPC_A
+Change Component Footprint: Designator=U1 Old Footprint=SOT23-3_N New Footprint=SOT23-3_N
+Added Pin To Net: NetName=NetC13_1 Pin=M1-1
+Added Pin To Net: NetName=NetC13_1 Pin=M1-2
+Added Pin To Net: NetName=NetC12_1 Pin=M2-1
+Added Pin To Net: NetName=NetC12_1 Pin=M2-2
+Added Pin To Net: NetName=GND Pin=M3-1
+Added Pin To Net: NetName=GND Pin=M3-2
+Added Pin To Net: NetName=GND Pin=M4-1
+Added Pin To Net: NetName=GND Pin=M4-2
+Added Pin To Net: NetName=NetC17_1 Pin=P3-1
+Added Pin To Net: NetName=NetC12_1 Pin=P3-2
