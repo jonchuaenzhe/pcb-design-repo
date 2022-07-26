@@ -9,4 +9,4 @@ For the Altium Projects, the Schematics can be viewed by accessing the "Project 
 
 ## EAGLE
 
-For the EAGLE Projects, the Schematics and Layouts can be viewed directly within each project folder as a PDF file.
+For the EAGLE Projects, the Schematics and Layouts can be viewed directly in each project folder as a PDF file.
